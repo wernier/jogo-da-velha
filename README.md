@@ -1,2 +1,2 @@
-# projetos
+# projeto
 ## jogo da velha
